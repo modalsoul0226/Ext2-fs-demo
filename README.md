@@ -15,6 +15,6 @@ Run `demo1.sh` which will visualize en empty disk.
 
 ---
 ## Step 3.
-Run `demo2.sh` to see the demo of `ext2_cp` which copies a local source file to the disk.
+Run `demo2.sh` to see the demo of `ext2_cp` which copies a local source file named `file.txt` to the disk.
 
 ![Alt Text](./images/step3.gif)
